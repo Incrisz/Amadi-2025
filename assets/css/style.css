@@ -5821,7 +5821,7 @@ footer .bg-pattern {
   -webkit-transform: rotate(-3deg);
   -ms-transform: rotate(-3deg);
   transform: rotate(-3deg);
-  width: calc(100% + 60px);
+  width: calc(100% + 33px);
   margin-left: -30px;
   background: #f1f3f5;
 }
